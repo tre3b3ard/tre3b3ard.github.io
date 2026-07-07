@@ -1,2 +1,2 @@
 # tre3b3ard.github.io
-Delios
+Delios Character Sheet Builder
